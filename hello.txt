@@ -5,4 +5,8 @@ hello
 hello
 hello
 hello
+<<<<<<< HEAD
 hello2
+=======
+hello1
+>>>>>>> test
